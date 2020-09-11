@@ -4,4 +4,4 @@
 
 ![](images/Satellite.png)
 
-![](images/Streets.png)
+![](images/Light.png)
